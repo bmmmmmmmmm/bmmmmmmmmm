@@ -3,6 +3,6 @@
 A front-end developer who dreams of becoming a full-stack engineer.
 
 - 🤔 Grokking `JavaScript` intensively.
-- 🤓 Focus on `React`.
+- 🤓 Focusing on `React` and exploring `Vue`.
 - 😍 Captivated by `Rust`.
 - 😋 ...
